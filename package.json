@@ -19,5 +19,8 @@
   "homepage": "https://github.com/daveten305/portfolio-site",
   "dependencies": {
     "gh-pages": "^4.0.0"
+  },
+  "devDependencies": {
+    "grunt-gh-pages": "^4.0.0"
   }
 }
